@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="notification_id">1</integer>
+    <string name="chanel_id">NOTIFICATION_CHANEL_ID</string>
+    <string name="chanel_name">NOTIFICATION_CHANEL_NAME</string>
+    <string name="chanel_description">NOTIFICATION_CHANEL_DESCRIPTION</string>
+
+    <bool name="ringing">false</bool>
+    <bool name="notifications">false</bool>
+    <integer name="hours_number">2</integer>
+
+</resources>

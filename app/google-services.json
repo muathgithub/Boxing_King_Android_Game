@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165977299757",
+    "project_id": "boxingking-9eb56",
+    "storage_bucket": "boxingking-9eb56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165977299757:android:245cbf25466f75fe8611a4",
+        "android_client_info": {
+          "package_name": "com.muathaj_salahj.boxingking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165977299757-5itpje5h3m97tqrfissrb2imv31c6tv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhdvKneYxQzptGr9a1GNyYm8Ay5aCYnqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165977299757-5itpje5h3m97tqrfissrb2imv31c6tv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/aboutMI"
+        android:title="About" />
+
+    <item
+        android:id="@+id/settingsMI"
+        android:title="Settings" />
+
+    <item
+        android:id="@+id/followsMI"
+        android:title="Follows" />
+
+    <item
+        android:id="@+id/logoutMI"
+        android:title="Logout" />
+
+    <item
+        android:id="@+id/exitMI"
+        android:title="Exit" />
+
+</menu>
